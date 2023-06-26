@@ -1,0 +1,8 @@
+tc_name,test_result,expected_result,result, date
+
+Wrong_Login,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 13:24:03.673420
+Wrong_Password,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 13:24:16.093578
+Wrong_Login,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 13:42:52.412829
+Wrong_Password,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 13:43:04.747863
+Wrong_Login,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 14:25:55.650471
+Wrong_Password,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 14:26:07.920191

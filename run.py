@@ -21,11 +21,10 @@ class OpenBrowser:
         driver.set_window_size(1457, 881)
         return driver
 
-
 def get_user_to_login():
 
     try:
-        with open("C:/Users/rrzeszotek/PycharmProjects/TestFramework/credential.txt", encoding='utf-8') as file:
+        with open("C:\\Users\\rrzeszotek\\PycharmProjects\\TestFramework\\credential.txt", encoding='utf-8') as file:
             data = file.read().split(',')
             return data[0], data[1]
     except FileNotFoundError:
