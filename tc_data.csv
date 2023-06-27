@@ -2,4 +2,5 @@ TCName|Enviroment|App_ver|data|TSName
 Product|TEST_01|1.01|login:admin,password:test,expected_result:Nieprawidłowy login lub hasło|Add_product
 Wrong_Login|TEST_01|1.01|login:admin,password:test,expected_result:Nieprawidłowy login lub hasło|Login
 Wrong_Password|TEST_01|1.01|login:lolek,password:admin,expected_result:Nieprawidłowy login lub hasło|Login
-AddItem|TEST_01|1.01|login:superadmin,password:FVbTBp7B7get7dMdC7QAByEyaw6S9jLh,item_name:Książka,item_departament:QA,expected_result:''|AddItem
+AddPosition|TEST_01|1.01|login:superadmin,password:FVbTBp7B7get7dMdC7QAByEyaw6S9jLh,position_name:Test,expected_result_edit:Edytowano stanowisko!,expected_result_delete:Usunięto stanowisko!,expected_result:Dodano nowe stanowisko!|AddPosition
+AddItem|TEST_01|1.01|login:superadmin,password:FVbTBp7B7get7dMdC7QAByEyaw6S9jLh,item_name:Książka,item_departament:QA,expected_result_edit:Edytowano przedmiot!,expected_result_delete:Usunięto przedmiot!,expected_result:Dodano nowy przedmiot!|AddItem

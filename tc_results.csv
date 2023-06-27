@@ -6,3 +6,32 @@ Wrong_Login,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Pass
 Wrong_Password,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 13:43:04.747863
 Wrong_Login,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 14:25:55.650471
 Wrong_Password,Nieprawidłowy login lub hasło,Nieprawidłowy login lub hasło,Passed,2023-06-24 14:26:07.920191
+AddPosition,Edytowano stanowisko!,Edytowano stanowisko!,Passed,2023-06-26 13:10:53.132805
+AddPosition,Usunięto stanowisko!,Usunięto stanowisko!,Passed,2023-06-26 13:10:53.671384
+AddPosition,Edytowano stanowisko!,Edytowano stanowisko!,Passed,2023-06-26 13:11:44.174717
+AddPosition,Usunięto stanowisko!,Usunięto stanowisko!,Passed,2023-06-26 13:11:44.706372
+AddPosition,Dodano nowe stanowisko!,Dodano nowe stanowisko!,Passed,2023-06-26 13:14:20.745861
+AddPosition,Edytowano stanowisko!,Edytowano stanowisko!,Passed,2023-06-26 13:14:23.379130
+AddPosition,Usunięto stanowisko!,Usunięto stanowisko!,Passed,2023-06-26 13:14:23.912451
+AddItem,Edytowano przedmiot!,Edytowano przedmiot!,Passed,2023-06-27 12:30:52.140623
+AddItem,Edytowano przedmiot!,Usunięto przedmiot!,Failed,2023-06-27 12:30:52.403467
+AddItem,Edytowano przedmiot!,Edytowano przedmiot!,Passed,2023-06-27 12:31:34.606624
+AddItem,Edytowano przedmiot!,Usunięto przedmiot!,Failed,2023-06-27 12:31:34.867689
+AddItem,"('The element does not exist', NoSuchElementException())",Edytowano przedmiot!,Failed,2023-06-27 12:39:43.109303
+AddItem,"('The element does not exist', NoSuchElementException())",Usunięto przedmiot!,Failed,2023-06-27 12:39:43.113880
+AddItem,"('The element does not exist', NoSuchElementException())",Edytowano przedmiot!,Failed,2023-06-27 12:45:43.864912
+AddItem,"('The element does not exist', NoSuchElementException())",Usunięto przedmiot!,Failed,2023-06-27 12:45:43.873366
+AddItem,"('The element does not exist', NoSuchElementException())",Edytowano przedmiot!,Failed,2023-06-27 12:47:07.331533
+AddItem,"('The element does not exist', NoSuchElementException())",Usunięto przedmiot!,Failed,2023-06-27 12:47:07.337028
+AddItem,"('The element does not exist', NoSuchElementException())",Edytowano przedmiot!,Failed,2023-06-27 12:48:31.263548
+AddItem,"('The element does not exist', NoSuchElementException())",Usunięto przedmiot!,Failed,2023-06-27 12:48:31.268662
+AddItem,"('The element does not exist', NoSuchElementException())",Edytowano przedmiot!,Failed,2023-06-27 12:51:22.081947
+AddItem,"('The element does not exist', NoSuchElementException())",Usunięto przedmiot!,Failed,2023-06-27 12:51:22.091447
+AddItem,Edytowano przedmiot!,Edytowano przedmiot!,Passed,2023-06-27 12:54:20.050496
+AddItem,Edytowano przedmiot!,Usunięto przedmiot!,Failed,2023-06-27 12:54:23.171658
+AddItem,Dodano nowy przedmiot!,Dodano nowy przedmiot!,Passed,2023-06-27 12:55:29.685652
+AddItem,Edytowano przedmiot!,Edytowano przedmiot!,Passed,2023-06-27 12:55:32.823696
+AddItem,Edytowano przedmiot!,Usunięto przedmiot!,Failed,2023-06-27 12:55:35.941780
+AddItem,Dodano nowy przedmiot!,Dodano nowy przedmiot!,Passed,2023-06-27 12:58:13.946879
+AddItem,Edytowano przedmiot!,Edytowano przedmiot!,Passed,2023-06-27 12:58:17.050067
+AddItem,Usunięto przedmiot!,Usunięto przedmiot!,Passed,2023-06-27 12:58:20.150427
